@@ -283,6 +283,7 @@ dependencies = [
  "csv",
  "distance",
  "ledger-parser",
+ "rust_decimal",
 ]
 
 [[package]]
